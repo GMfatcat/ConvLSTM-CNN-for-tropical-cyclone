@@ -23,7 +23,7 @@ Some text
 
 ## Status
 
-[aaa](https://img.shields.io/badge/Keras-needed-brightgreen)
+![Importance](https://img.shields.io/badge/Keras-needed-brightgreen)
 
 ## What's included
 
