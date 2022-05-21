@@ -56,7 +56,7 @@ Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com
 
 Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
-## Creators
+## Creator
 
 **GMfatcat**
 
