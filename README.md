@@ -27,7 +27,8 @@ There are two sections for in this project, ConvLSTM for windspeed time-series p
 
 ![Status](https://img.shields.io/badge/Keras-needed-brightgreen)
 ![Status](https://img.shields.io/badge/netCDF4-needed-brightgreen)
-
+![Status](https://img.shields.io/badge/ploty-needed-brightgreen)
+![Status](https://img.shields.io/badge/GPU-needed-critical)
 ## What's included
 
 Some text
