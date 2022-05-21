@@ -60,10 +60,12 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 ## Thanks
 
-Some Text
+1.https://www.kaggle.com/code/kcostya/convlstm-convolutional-lstm-network-tutorial
+2.https://www.kaggle.com/code/concyclics/analysis-typhoon-size/notebook
+3.https://github.com/23ccozad/hurricane-wind-speed-cnn
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
 Enjoy :metal:
