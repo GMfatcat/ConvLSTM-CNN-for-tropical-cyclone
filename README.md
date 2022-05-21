@@ -58,9 +58,9 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 ## Creators
 
-**Creator 1**
+**GMfatcat**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/GMfatcat>
 
 ## Thanks
 
