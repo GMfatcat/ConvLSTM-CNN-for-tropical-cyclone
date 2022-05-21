@@ -15,7 +15,9 @@
 
 ## Quick start
 
-Some text
+This project was made for 2022 NTU Remote Sensing & Geospatial Information Analysis And Application.  
+There are two sections for in this project, ConvLSTM for windspeed time-series prediction and CNN for cyclone intensity prediction.  
+:exclamation: You need GPU for this project, especially for ConvLSTM :exclamation:
 
 - Instruction 1
 - Instruction 2
