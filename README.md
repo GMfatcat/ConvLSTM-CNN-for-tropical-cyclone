@@ -19,9 +19,11 @@ This project was made for 2022 NTU Remote Sensing & Geospatial Information Analy
 There are two sections for in this project, ConvLSTM for windspeed time-series prediction and CNN for cyclone intensity prediction.  
 :exclamation: You need GPU for this project, especially for ConvLSTM :exclamation:
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Section 1: ConvLSTM ---> See #.ipynb# in Section 1 folder
+- Section 1: CNN ---> See #.ipynb# in Section 2 folder
+- Project Flow Chart as below
+![flow](https://user-images.githubusercontent.com/58526756/169665524-7cfb2276-5581-4b30-a7ec-f678c0f0cd06.JPG)
+
 
 ## Status
 
@@ -29,6 +31,7 @@ There are two sections for in this project, ConvLSTM for windspeed time-series p
 ![Status](https://img.shields.io/badge/netCDF4-needed-brightgreen)
 ![Status](https://img.shields.io/badge/ploty-needed-brightgreen)
 ![Status](https://img.shields.io/badge/GPU-needed-critical)
+
 ## What's included
 
 Some text
@@ -48,13 +51,6 @@ folder1/
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
 
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## Creator
 
