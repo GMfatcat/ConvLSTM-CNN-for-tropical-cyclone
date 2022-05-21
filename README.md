@@ -17,6 +17,7 @@
 
 This project was made for 2022 NTU Remote Sensing & Geospatial Information Analysis And Application.  
 There are two sections for in this project, ConvLSTM for windspeed time-series prediction and CNN for cyclone intensity prediction.  
+Give a :star: if you think this project is helpful:smile:  
 :exclamation: You need GPU for this project, especially for ConvLSTM :exclamation:
 
 - Section 1: ConvLSTM ---> See ```.ipynb & colab ``` &nbsp;  in Section 1 folder
@@ -40,20 +41,23 @@ There are two sections for in this project, ConvLSTM for windspeed time-series p
 Section 1/
 └── windspeed_timeseries/
     ├── code/
-    │   ├── file1
-    │   └── file2
+    │   ├── train.ipynb
+    |   ├── make_gif.ipynb
+    |   ├── Generate_images_sequence.ipynb
+    |   └── Download_gfs.ipynb
     └── dataset/
-        ├── file3
-        └── file4
-        
+        └──link for images.npy
+              
 Section 2/
 └── cyclone_intensity/
     ├── code/
-    │   ├── file1
-    │   └── file2
+    │   ├── download.ipynb
+    │   |── assemble.ipynb
+    |   |── model.ipynb
+    |   └── Inspect_track_data.ipynb
     └── dataset/
-        ├── file3
-        └── file4
+        └── link for images.npy & labels.npy &  5 fold prediction result
+        
 ```
 
 ## Results
