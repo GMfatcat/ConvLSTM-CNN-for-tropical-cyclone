@@ -60,9 +60,9 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 ## Thanks
 
-1.https://www.kaggle.com/code/kcostya/convlstm-convolutional-lstm-network-tutorial
-2.https://www.kaggle.com/code/concyclics/analysis-typhoon-size/notebook
-3.https://github.com/23ccozad/hurricane-wind-speed-cnn
+1.https://www.kaggle.com/code/kcostya/convlstm-convolutional-lstm-network-tutorial  
+2.https://www.kaggle.com/code/concyclics/analysis-typhoon-size/notebook  
+3.https://github.com/23ccozad/hurricane-wind-speed-cnn  
 
 ## Copyright and license
 
