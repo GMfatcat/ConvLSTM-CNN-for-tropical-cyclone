@@ -1,4 +1,4 @@
-# ConvLSTM-CNN-for-tropical-cyclone-
+# ConvLSTM-CNN-for-tropical-cyclone-prediction
 
 
 ## Table of contents
