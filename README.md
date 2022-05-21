@@ -20,8 +20,8 @@ There are two sections for in this project, ConvLSTM for windspeed time-series p
 
 - Section 1: ConvLSTM ---> See ```.ipynb & colab ``` &nbsp;  in Section 1 folder
 - Section 1: CNN ---> See ```.ipynb ``` &nbsp;  in Section 2 folder
-- :point_right: V100 32G & RTX 2080ti were used for ConvLSTM
-- :point_right: GTX 950M were used for CNN
+- :point_right: V100 32G & RTX 2080ti were used for ConvLSTM ---> Reduce batch size first if OOM occurs, also try simplifying the network structure
+- :point_right: GTX 950M were used for CNN 
 - Project Flow Chart as below :point_down: :point_down:  
 ![flow](https://user-images.githubusercontent.com/58526756/169665524-7cfb2276-5581-4b30-a7ec-f678c0f0cd06.JPG)
 
@@ -35,24 +35,22 @@ There are two sections for in this project, ConvLSTM for windspeed time-series p
 
 ## What's included
 
-Some text
-
 ```text
 Section 1/
-└── folder2/
-    ├── folder3/
+└── windspeed_timeseries/
+    ├── code/
     │   ├── file1
     │   └── file2
-    └── folder4/
+    └── dataset/
         ├── file3
         └── file4
         
 Section 2/
-└── folder2/
-    ├── folder3/
+└── cyclone_intensity/
+    ├── code/
     │   ├── file1
     │   └── file2
-    └── folder4/
+    └── dataset/
         ├── file3
         └── file4
 ```
@@ -74,6 +72,7 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 1.https://www.kaggle.com/code/kcostya/convlstm-convolutional-lstm-network-tutorial  
 2.https://www.kaggle.com/code/concyclics/analysis-typhoon-size/notebook  
 3.https://github.com/23ccozad/hurricane-wind-speed-cnn  
+4.https://www.ncree.narl.org.tw/home  for High Performance Computing System (ConvLSTM)
 
 ## Copyright and license
 
