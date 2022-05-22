@@ -20,7 +20,7 @@ There are two sections for in this project, ConvLSTM for windspeed time-series p
 Give a :star: if you think this project is helpful:smile:  
 :exclamation: You need GPU for this project, especially for ConvLSTM :exclamation:
 
-- Section 1: ConvLSTM ---> See ```.ipynb & colab ``` &nbsp;  in Section 1 folder
+- Section 1: ConvLSTM ---> See ```.ipynb & colab(link) ``` &nbsp;  in Section 1 folder
 - Section 1: CNN ---> See ```.ipynb ``` &nbsp;  in Section 2 folder
 - :point_right: V100 32G & RTX 2080ti were used for ConvLSTM ---> Reduce batch size first if OOM occurs, also try simplifying the network structure
 - :point_right: GTX 950M were used for CNN 
@@ -45,6 +45,7 @@ Section 1/
     ├── code/
     │   ├── train.py
     |   ├── make_gif.py
+    |   ├── colab_train_link.txt
     |   ├── Generate_images_sequence.ipynb (provide link since > 30 Mb)
     |   └── Download_gfs.ipynb
     └── dataset/
