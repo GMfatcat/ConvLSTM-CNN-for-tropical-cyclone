@@ -41,8 +41,8 @@ Give a :star: if you think this project is helpful:smile:
 Section 1/
 └── windspeed_timeseries/
     ├── code/
-    │   ├── train.ipynb
-    |   ├── make_gif.ipynb
+    │   ├── train.py
+    |   ├── make_gif.py
     |   ├── Generate_images_sequence.ipynb
     |   └── Download_gfs.ipynb
     └── dataset/
