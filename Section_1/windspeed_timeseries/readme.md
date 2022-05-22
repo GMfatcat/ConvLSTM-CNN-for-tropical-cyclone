@@ -1,2 +1,2 @@
-code for .py & .ipynb
-dataset for link of .npy
+## 1. code for .py & .ipynb   
+## 2. dataset for link of .npy  
