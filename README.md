@@ -33,6 +33,8 @@ Give a :star: if you think this project is helpful:smile:
 ![Status](https://img.shields.io/badge/Keras-needed-brightgreen)
 ![Status](https://img.shields.io/badge/netCDF4-needed-brightgreen)
 ![Status](https://img.shields.io/badge/ploty-needed-brightgreen)
+![Status](https://img.shields.io/badge/xarray-needed-brightgreen)
+![Status](https://img.shields.io/badge/requests-needed-critical)
 ![Status](https://img.shields.io/badge/GPU-needed-critical)
 
 ## What's included
