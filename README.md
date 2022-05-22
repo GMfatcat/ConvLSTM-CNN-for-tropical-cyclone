@@ -43,7 +43,7 @@ Section 1/
     ├── code/
     │   ├── train.py
     |   ├── make_gif.py
-    |   ├── Generate_images_sequence.ipynb
+    |   ├── Generate_images_sequence.ipynb (provide link since > 30 Mb)
     |   └── Download_gfs.ipynb
     └── dataset/
         └──link for images.npy
