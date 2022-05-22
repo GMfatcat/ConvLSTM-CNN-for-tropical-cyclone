@@ -54,6 +54,7 @@ Section 2/
     │   ├── Download_HURSAT.py
     │   |── Process.py
     |   |── train.py
+    |   |── view_pred_images.py
     |   └── Inspect_track_data.ipynb
     └── dataset/
         └── link for images.npy & labels.npy &  5 fold prediction result
