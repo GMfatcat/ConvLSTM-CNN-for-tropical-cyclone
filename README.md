@@ -51,9 +51,9 @@ Section 1/
 Section 2/
 └── cyclone_intensity/
     ├── code/
-    │   ├── download.ipynb
-    │   |── assemble.ipynb
-    |   |── model.ipynb
+    │   ├── Download_HURSAT.py
+    │   |── Process.py
+    |   |── train.py
     |   └── Inspect_track_data.ipynb
     └── dataset/
         └── link for images.npy & labels.npy &  5 fold prediction result
