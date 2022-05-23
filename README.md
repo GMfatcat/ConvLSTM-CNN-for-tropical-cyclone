@@ -45,7 +45,7 @@ Give a :star: if you think this project is helpful:smile:
 ### Project Notice
 ```Section 1 :``` images.npy (2022/01 - 2022/05) --> Smaller dataset --> prepocess contains in those files    
 ```train.py :``` images_all.npy (2021/05 - 2022/05) --> modified train.py at line 17 & 18 --> change data[:-3] to data[:-4]  
-```train.py :``` images_all.npy (2021/05 - 2022/05) --> also change the batchsize to 619 in np.reshape() in line 26 & 27
+```train.py :``` images_all.npy (2021/05 - 2022/05) --> also change the batchsize to 619 in np.reshape() in line 23 & 24
 
 ### Project File
 ```text
