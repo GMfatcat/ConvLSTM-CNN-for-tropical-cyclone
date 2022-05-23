@@ -42,6 +42,11 @@ Give a :star: if you think this project is helpful:smile:
 ```Section 1 :``` Download_gfs.ipynb -> Generate_images_sequence.ipynb -> colab example / train.py -> make_gif.py  
 ```Section 2 :``` Inspect_track_data.ipynb -> Download_HURSAT.py -> Process.py -> train.py -> view_pred_images.py
 
+### Project Notice
+```Section 1 :``` images.npy (2022/01 - 2022/05) --> Smaller dataset --> prepocess contains in those file
+```Section 1 :``` images_all.npy (2021/05 - 2022/05) --> modified the from [] to [:-4]  
+
+### Project File
 ```text
 Section 1/
 └── windspeed_timeseries/
