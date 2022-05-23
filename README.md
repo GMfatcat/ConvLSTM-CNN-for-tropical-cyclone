@@ -44,7 +44,7 @@ Give a :star: if you think this project is helpful:smile:
 
 ### Project Notice
 ```Section 1 :``` images.npy (2022/01 - 2022/05) --> Smaller dataset --> prepocess contains in those file  
-```Section 1 :``` images_all.npy (2021/05 - 2022/05) --> modified train.py line 17&18 in --> change data[:-3] to data[:-4]  
+```Section 1 :``` images_all.npy (2021/05 - 2022/05) --> modified train.py at line 17&18 --> change data[:-3] to data[:-4]  
 
 ### Project File
 ```text
