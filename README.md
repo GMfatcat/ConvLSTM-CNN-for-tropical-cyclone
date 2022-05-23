@@ -37,7 +37,10 @@ Give a :star: if you think this project is helpful:smile:
 ![Status](https://img.shields.io/badge/requests-needed-critical)
 ![Status](https://img.shields.io/badge/GPU-needed-critical)
 
-## What's included
+## What's includeds
+### Project excecute order
+```Section 1 :``` Download_gfs.ipynb -> Generate_images_sequence.ipynb -> colab train example / train.py -> make_gif.py  
+```Section 2 :``` Inspect_track_data.ipynb -> Download_HURSAT.py -> Process.py -> train.py -> view_pred_images.py
 
 ```text
 Section 1/
