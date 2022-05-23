@@ -76,7 +76,8 @@ Up: ConvLSTM predicts 2 in 5 frame // Down: CNN predition examples
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.
+Have a bug or a feature request? Please first search for existing and closed issues.  
+If your problem or idea is not addressed yet, please open a new issue.  
 
 
 ## Creator
