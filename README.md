@@ -102,6 +102,8 @@ If your problem or idea is not addressed yet, please open a new issue.
 
 ## Copyright and license
 
-Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code released under the [MIT License](https://reponame/blob/master/LICENSE).  
+
+Also Check out my related project:https://github.com/GMfatcat/py_erddap/tree/main
 
 Enjoy :metal:
